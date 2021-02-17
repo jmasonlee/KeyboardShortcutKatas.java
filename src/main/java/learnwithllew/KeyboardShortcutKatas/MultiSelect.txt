@@ -1,0 +1,15 @@
+My boss sdwfd to me,
+"You’re the worst trdwfn driver ever.
+How many have you derdwfled this year?"
+
+I said, "I’m ndwf sure; it’s hard to keep track."
+
+#replace and move cursor
+as -> replace with y, move forward 3 and delete space
+#select change and change selection
+dwf -> select the first 4, change it to "ai" unselect the last one and change it to "ot"
+
+Keyboard ShortCuts
+^G -> Select Next
+Shift + ^G -> Unselect last
+Command + ^G -> Select all occurrences
