@@ -1,15 +1,68 @@
-My boss sdwfd to me,
-"You’re the worst trdwfn driver ever.
-How many have you derdwfled this year?"
+Knock, Knock
+    Who's There?
+Banana
+    Banana Who?
+Knock, Knock
+    Who's There?
+Banana
+    Banana Who?
+Knock, Knock
+    Who's There?
+Banana
+    Banana Who?
+Knock, Knock
+    Who's There?
+Orange
+    Orange Who?
+Orange you glad I didn't say Banana again?
 
-I said, "I’m ndwf sure; it’s hard to keep track."
+Knock, Knock
+    Who's There?
+Banana
+    Banana Who?
+Knock, Knock
+    Who's There?
+Banana
+    Banana Who?
+Knock, Knock
+    Who's There?
+Banana
+    Banana Who?
+Knock, Knock
+    Who's There?
+Orange
+    Orange Who?
+Orange you glad I didn't say Banana again?
 
 #replace and move cursor
 as -> replace with y, move forward 3 and delete space
 #select change and change selection
 dwf -> select the first 4, change it to "ai" unselect the last one and change it to "ot"
+#Move by word and substitute previous word with new word
 
-Keyboard ShortCuts
-^G -> Select Next
-Shift + ^G -> Unselect last
-Command + ^G -> Select all occurrences
+Keyboard Short Cuts
+^G                   = Select Next
+Shift + ^G           = Unselect last
+Command + ^G         = Select all occurrences
+Option + →/←         = Move cursor one word to the right/left
+Option + shift + →/← = Select one word to the right/left
+
+#Don't change the instructions.
+
+| Knock | Knock |
+|-------|-------|
+| Line  | 2     |
+| Strawberry    |       |
+| Orange      |       |
+| Kiwi      |       |
+| Pomegranate      |       |
+| Blackberry      |       |
+| Raspberry      |       |
+| Apple      |       |
+| Peach      |       |
+| Pear      |       |
+| Boysenberry      |       |
+| Lindenberry      |       |
+| Lemon      |       |
+| Lime      |       |
+| Watermelon      |       |
