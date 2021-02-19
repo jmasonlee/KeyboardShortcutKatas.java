@@ -1,0 +1,68 @@
+           __-----_.                        ______
+          /  \      \           o  O  O   _(      )__
+         /    |  |   \_---_   o._.      _(           )_
+        |     |            \   | |""""(_   Let's see... )
+        |     |             |@ | |    (_               _)
+         \___/   ___       /   | |      (__          _)
+           \____(____\___/     | |         (________)
+           |__|                | |          |
+           /   \-_             | |         |'
+         /      \_ "__ _       !_!--v---v--"
+        /         "|  |>)      |""""""""|
+       |          _|  | ._--""||        |
+       _\_____________|_|_____||________|_
+   /a a\/asd\[{a a}][<asd|][|a a>][{asd|]c  f[<a a}]c ! 1 k[|asd|]c!fgwfgwfk
+\|/       \\/             \||//           |//                       \|/    |/
+
+Build Snoopy's Doghouse:
+
+Select a\/a.
+In between \/, place a new line.
+If not done for you, indent by 3 spaces
+
+Select all [
+move cursor to the left
+create a newline
+If not done dor you, indent with two spaces
+
+Select all spaces between two a's
+Duplicate them.
+Repeat until you have duplicated 5 times.
+Add 8 more spaces.
+
+Select all asd's
+Replace them with _________________________________________
+
+Remove all a's
+
+Select all ].
+Move the cursor two characters to the left.
+Delete 10 times.
+
+Select all [, and put 6 spaces to the left of them.
+
+Remove the [ and ].
+
+Select lines 14-15
+Duplicate them twice
+
+Select all \ on lines 14 - 18
+Delete twice to the left of them.
+Deselect the bottom two
+Repeat until no more are selected
+
+Select all / on lines 14 - 18
+Put a single space in front of them.
+Deselect the bottom two.
+Repeat until no more are selected
+
+Then build his water bowl:
+Replace ! with /
+Replace k with \
+Replace gwf with _
+Replace each c with 14 spaces
+Replace each f with ________
+Replace 1 with SNOOPY
+
+
+   /a a\/asd\[{a a}][<asd|][|a a>][{asd|]c  f[<a a}]c ! 1 k[|asd|]c!fgwfgwfk
