@@ -11,7 +11,7 @@
         /         "|  |>)      |""""""""|
        |          _|  | ._--""||        |
        _\_____________|_|_____||________|_
-   /a a\/asd\[{a a}][<asd|][|a a>][{asd|]c  f[<a a}]c ! 1 k[|asd|]c!fgwfgwfk
+   /a a\/asd\[{a a}][<asd|][|a a>][{asd|]c  f[<a a}]c ~ 1 k[|asd|]c~fgwfgwfk
 \|/       \\/             \||//           |//                       \|/    |/
 
 Build Snoopy's Doghouse:
@@ -35,6 +35,7 @@ Replace them with _________________________________________
 
 Remove all a's
 
+Align the base:
 Select all ].
 Move the cursor two characters to the left.
 Delete 10 times.
@@ -43,21 +44,22 @@ Select all [, and put 6 spaces to the left of them.
 
 Remove the [ and ].
 
+Build the roof:
 Select lines 14-15
 Duplicate them twice
 
-Select all \ on lines 14 - 18
+Starting at the top of the doghouse, select all \ except the last one
 Delete twice to the left of them.
 Deselect the bottom two
 Repeat until no more are selected
 
-Select all / on lines 14 - 18
+Starting at the top of the doghouse, select all / except the last one
 Put a single space in front of them.
 Deselect the bottom two.
 Repeat until no more are selected
 
 Then build his water bowl:
-Replace ! with /
+Replace ~ with /
 Replace k with \
 Replace gwf with _
 Replace each c with 14 spaces
